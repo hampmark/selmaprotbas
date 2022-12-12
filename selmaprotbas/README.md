@@ -14,8 +14,8 @@ in the model, and other changes as described in the supplementary material of Me
 "Future  effects of storms on nutrient distribution and phytoplankton dynamics".
 
 * SELMA (see below)
-* PROTBAS - PROTECH based phytplankton model (Markensten & Pierson)
-* PROTECH - Phytoplankton RespOnses To Environmental CHange  (Reynolds et al. 2001)
+* PROTBAS - PROTECH based phytplankton model (Markensten & Pierson, 2007; https://doi.org/10.1016/j.ecolmodel.2007.04.023)
+* PROTECH - Phytoplankton RespOnses To Environmental CHange  (Reynolds et al. 2001; https://doi.org/10.1016/S0304-3800(01)00330-1)
 
 Adding PROTECH phytoplankton behaviour to SELMA lake branch within FABM-GOTM framework
 
